@@ -1,9 +1,6 @@
 package br.com.me.abillities.Kaangaroo;
 
 import br.com.me.manager.CooldownManager;
-import br.com.me.util.ItemUtil;
-import org.bukkit.ChatColor;
-import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;

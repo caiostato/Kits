@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class CooldownManager {
 
-    private final Map<UUID, Double> cooldowns = new HashMap<>();;
+    private final Map<UUID, Double> cooldowns = new HashMap<>();
 
 
     public void setCooldown(Player player, double seconds) {

@@ -60,7 +60,6 @@ public class NinjaListener implements Listener {
 
 
         if (event.getEntity() instanceof Player) {
-            Player player = (Player) event.getEntity();
             if (event.getDamager() instanceof Player) {
                 cooldownCombatManager.setCooldown((Player) damagerEntity, 2);
             }

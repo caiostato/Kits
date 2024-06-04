@@ -5,7 +5,6 @@ import br.com.me.abillities.Checkpoint.CheckpointManager;
 import br.com.me.abillities.Kaangaroo.KaangarooManager;
 import br.com.me.abillities.Ninja.NinjaManager;
 import br.com.me.util.ItemUtil;
-import net.minecraft.server.v1_8_R3.DamageSource;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
